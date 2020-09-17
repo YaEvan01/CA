@@ -1,0 +1,13 @@
+C:\Users\homepc\source\repos\СА2\СА2\bin\Debug\netcoreapp3.1\СА2.exe
+C:\Users\homepc\source\repos\СА2\СА2\bin\Debug\netcoreapp3.1\СА2.deps.json
+C:\Users\homepc\source\repos\СА2\СА2\bin\Debug\netcoreapp3.1\СА2.runtimeconfig.json
+C:\Users\homepc\source\repos\СА2\СА2\bin\Debug\netcoreapp3.1\СА2.runtimeconfig.dev.json
+C:\Users\homepc\source\repos\СА2\СА2\bin\Debug\netcoreapp3.1\СА2.dll
+C:\Users\homepc\source\repos\СА2\СА2\bin\Debug\netcoreapp3.1\СА2.pdb
+C:\Users\homepc\source\repos\СА2\СА2\obj\Debug\netcoreapp3.1\СА2.csprojAssemblyReference.cache
+C:\Users\homepc\source\repos\СА2\СА2\obj\Debug\netcoreapp3.1\СА2.AssemblyInfoInputs.cache
+C:\Users\homepc\source\repos\СА2\СА2\obj\Debug\netcoreapp3.1\СА2.AssemblyInfo.cs
+C:\Users\homepc\source\repos\СА2\СА2\obj\Debug\netcoreapp3.1\СА2.csproj.CoreCompileInputs.cache
+C:\Users\homepc\source\repos\СА2\СА2\obj\Debug\netcoreapp3.1\СА2.dll
+C:\Users\homepc\source\repos\СА2\СА2\obj\Debug\netcoreapp3.1\СА2.pdb
+C:\Users\homepc\source\repos\СА2\СА2\obj\Debug\netcoreapp3.1\СА2.genruntimeconfig.cache
