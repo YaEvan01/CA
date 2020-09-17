@@ -22,7 +22,7 @@ namespace СА2
 
             table.DrawSums();
 
-            Console.WriteLine("Cумма всех оценок");
+            Console.WriteLine("Cумма всех оценокfgergrgegre");
         }
     }
 }
